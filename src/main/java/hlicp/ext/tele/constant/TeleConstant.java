@@ -3,7 +3,7 @@ package hlicp.ext.tele.constant;
 public class TeleConstant {
 
     public enum TargetType {
-        MCI, ESB
+        MCI, ESB, FEP
     }
 
     /** 처리결과 구분코드 : 성공 */
